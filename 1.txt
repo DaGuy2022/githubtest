@@ -1,7 +1,9 @@
-My name is aungkhantzaw.
-i am in ojt batch-9.
-non metal
-liquid 
-solid 
-gas
-null
+My name is CZe.
+i am gamer.
+Fluffly
+java
+c++
+c#python
+thymeleaf springboot
+
+
